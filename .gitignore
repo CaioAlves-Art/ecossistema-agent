@@ -1,21 +1,3 @@
-# Node
-node_modules/
-dist/
+node_modules
+dist
 .env
-.env.local
-npm-debug.log*
-
-# IDEs e sistema
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Lovable & Supabase cache/output
-*.supabase/
-.supabase/
-functions/.supabase/
-
-# Test/output
-coverage/
-logs/
-*.log
